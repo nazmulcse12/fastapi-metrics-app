@@ -13,7 +13,7 @@ A comprehensive FastAPI application with built-in Prometheus metrics collection 
 
 ### Using Docker Compose
 ```bash
-docker-compose up -d
+docker-compose up -d --build
 ```
 
 ### Local Development
